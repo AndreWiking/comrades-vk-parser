@@ -1,0 +1,714 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 15601042
+            [bdate] => 10.5
+            [photo_max_orig] => https://sun1-20.userapi.com/s/v1/ig2/fJp8FRWH8dQTyoTK4omCd17CdVmjnZ0HtatDZkvsz0-OCTL1vrzSjHHuHCVc1k3c0R9KlOboy74Jx1FA-UalO0Yl.jpg?quality=96&crop=1,37,692,692&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Мария
+            [last_name] => Голубева
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 585578655
+            [bdate] => 15.12.1992
+            [photo_max_orig] => https://sun1-30.userapi.com/s/v1/ig2/dSwypEZmHUCUWivTqVKo2rJDq24Em4WR37w0pn5YG8oJdo9T-E8wew4M5n3QWUyFWkWHJdXIQMZLTgt7rrHP1viN.jpg?quality=95&crop=247,1049,1020,1020&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Yana
+            [last_name] => Yana
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 135860506
+            [bdate] => 17.12
+            [photo_max_orig] => https://sun1-13.userapi.com/s/v1/ig2/amm9z1diMSqI5azYuMhv6KZO7edcbXlggJn79Uu4s0OK2CQaPDHq7brUfQMuvCXHW1BXv1bO33fb7Lgb1WsQlMrT.jpg?quality=96&crop=66,240,960,960&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Наталья
+            [last_name] => Антонова
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 25944365
+            [bdate] => 18.9
+            [photo_max_orig] => https://sun1-24.userapi.com/s/v1/ig1/8qsEDhemMLZ6cdYR5dqNJIiRLgEGXOibsjERo23ngVIld58n8NhU8R9EwG_vPMg8ZA7fwN-T.jpg?quality=96&crop=561,3,1436,1436&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Станислав
+            [last_name] => Ковтунов
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 509746114
+            [bdate] => 7.10.1998
+            [photo_max_orig] => https://sun1-95.userapi.com/s/v1/ig1/dPhS3TWsur8SNXUXYJJo-G_0HKzrHhvwFqF0KdeGm6ZFP5lnBsr_lgl6F8VgLKAxW9yXfr5E.jpg?quality=96&crop=204,204,1633,1633&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Милана
+            [last_name] => Омарова
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 308081620
+            [bdate] => 26.1
+            [photo_max_orig] => https://sun1-47.userapi.com/s/v1/ig2/RN7pRYGzbwJRv-CKmWUUgE_qA70oXmcguxpsQz3eZBUJp2FyJv9iHQKJihpfqioRvbGkI48dmGIou6PmguwUCaai.jpg?quality=95&crop=0,143,853,853&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Альбина
+            [last_name] => Шугарингг
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [6] => Array
+        (
+            [id] => 491139920
+            [bdate] => 3.6
+            [photo_max_orig] => https://sun1-55.userapi.com/s/v1/ig2/9ewVCozm3MHHLbmYbY5V9hnsWNlQNDFAlxD6kwffIEhIWBbz7i5_lY_eXTgNBEz3ZrpB_2akAKe_fdcBuWOj6gYx.jpg?quality=95&crop=0,69,930,930&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Богдан
+            [last_name] => Матвиенко
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [7] => Array
+        (
+            [id] => 19052831
+            [bdate] => 14.9.1978
+            [photo_max_orig] => https://sun1-22.userapi.com/s/v1/ig1/UmCXRbSQi6rvgZ8-gM9uV3iOS7c_APG2q6fU90NGqZoFpxOh-lsTzC77cq41YjHZVPqY0xuM.jpg?quality=96&crop=134,242,268,268&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Дмитрий
+            [last_name] => Чарыков
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [8] => Array
+        (
+            [id] => 98653453
+            [bdate] => 6.12
+            [photo_max_orig] => https://sun1-30.userapi.com/s/v1/ig2/LYNXfEyW78YD1es2hRCtuUrHJOnLJGjsx1D6aGZ23vn9wnn3_DQWcz3nUv-Xtt0-59hyMn-HFaAHvEZczE4XC3Kz.jpg?quality=95&crop=351,263,705,705&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Светлана
+            [last_name] => Павликова
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [9] => Array
+        (
+            [id] => 199980004
+            [bdate] => 1.6.1985
+            [photo_max_orig] => https://sun1-97.userapi.com/s/v1/ig2/HnJL5G16XQ5WfrqCYb-Y6spR9QD6eolENTEA88p7XeB7jpB7N7RkGIBEaxVAfmzbFlmf5fHj5DB4v5OMyUO66S6O.jpg?quality=96&crop=188,24,319,319&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Ясмина
+            [last_name] => Камалова
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [10] => Array
+        (
+            [id] => 265953405
+            [bdate] => 23.2.1991
+            [photo_max_orig] => https://sun1-30.userapi.com/s/v1/ig2/int6aD-Tq6x_Y0Q9hIIoVJmOB397k0QkbPH_zjXeTL3KqtRrympedJk4373XCzqHfjcWfmj4A6lmbrQv1w4d6XKN.jpg?quality=95&crop=132,569,1802,1802&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Ирина
+            [last_name] => Жмаева
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [11] => Array
+        (
+            [id] => 871943102
+            [photo_max_orig] => https://sun1-19.userapi.com/s/v1/ig2/CiayKxg76rZCT-HGFZwCvq92BlP1TWofe7Q7N1QButttAMLgK1wBW3KmkE3ueIPkh0lCnAfP5szrVY-2pP880z4z.jpg?quality=95&crop=0,356,1571,1571&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Ahmed
+            [last_name] => Ebrahim
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [12] => Array
+        (
+            [id] => 1026878563
+            [photo_max_orig] => https://sun1-92.userapi.com/s/v1/ig2/IswsPdcRjKVhvTkl8otuos6WPClZsAPO2Vpl9xh9ut9Itc6zUiveH66-xdo4kAJUAQPDGMEWaQzzG2yl0o7AS1U9.jpg?quality=95&crop=0,0,1024,1024&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Paris
+            [last_name] => Paris
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [13] => Array
+        (
+            [id] => 36032149
+            [photo_max_orig] => https://sun1-47.userapi.com/s/v1/ig2/U3w0jeg7KzZblt220_1u8AvNOqK9MVZ3oOkpYWoauZTAj4EGjdPlTIzx1SxNafzEl91A99E_oxkujugpkkiJSz7A.jpg?quality=95&crop=386,1,1330,1330&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Anuta
+            [last_name] => G
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [14] => Array
+        (
+            [id] => 594540637
+            [bdate] => 10.8.1970
+            [photo_max_orig] => https://sun1-27.userapi.com/s/v1/ig2/PXQ-OCteRCSjwdm7RLMEJZOFxTtVDr0T2xfnjr_J71a1ttyzwHB6fpvrhOqomlWHA2kYhUZHGlGindDkM1fnZRAV.jpg?quality=96&crop=216,216,1728,1728&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Андрей
+            [last_name] => Шигаев
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [15] => Array
+        (
+            [id] => 29858601
+            [bdate] => 31.8
+            [photo_max_orig] => https://sun1-94.userapi.com/s/v1/ig2/qe54kAARAXyKdFP-oQMmAIU0ccoWzVhtpUnMRirWOy9PS4GdWPiHgLtZmw2EVWS1K5NtR9iql4GgV0YPS3ZhfewC.jpg?quality=95&crop=245,190,813,813&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Sabina
+            [last_name] => Gafarova
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [16] => Array
+        (
+            [id] => 441463875
+            [bdate] => 5.6.1980
+            [photo_max_orig] => https://sun1-16.userapi.com/s/v1/ig1/9FZ6H6kbzc4seL0beyJ_30d204JIyw41WNkszbYfKgEBjqgLFIEfZOaNUuIFrVMdvnu7wQ.jpg?quality=96&crop=84,110,409,409&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Кирилл
+            [last_name] => Сонников
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [17] => Array
+        (
+            [id] => 415925757
+            [bdate] => 15.7.1995
+            [photo_max_orig] => https://sun1-21.userapi.com/s/v1/ig2/2qmFGsLYfcOJy9Rl1oRH4RDlv9l4CZEjHm6gCyi2ZNG2zbor26Izt4thZhPFEFFsvs1506AmVvAKCtiEN61GI2rH.jpg?quality=95&crop=282,203,1446,1446&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Сергей
+            [last_name] => Захаров
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [18] => Array
+        (
+            [id] => 1019123884
+            [photo_max_orig] => https://sun1-19.userapi.com/s/v1/ig2/EjyOlFipC4J9OhtvJbx7Xt3opKV7XMI9PRkOckB5Lmlf0I08KMiIIfw4cvlvOgRC2lVcjzbiMU23GfEsHbzsGaWa.jpg?quality=95&crop=582,444,494,494&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Яна
+            [last_name] => Шильниковская
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [19] => Array
+        (
+            [id] => 543591883
+            [photo_max_orig] => https://sun1-24.userapi.com/s/v1/ig2/XlEHJOY0xF2UjLkzoP3PHgxW-EXTHvvDsbQxIf4rdRslt3UI6bP0NrdizAi5SIrJnPmJLzvxc7mKh6tUSFr9VBD4.jpg?quality=95&crop=154,55,521,521&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Елена
+            [last_name] => Страхование
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [20] => Array
+        (
+            [id] => 7556741
+            [photo_max_orig] => https://sun1-90.userapi.com/s/v1/ig1/BCGjVE5dSIBpBNndL_l9001wRzP-_kBlb5rXaro1ubQKc4Omew-VcEKbsi7ec1QgrGjJdZxW.jpg?quality=96&crop=131,2,312,312&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Adventa
+            [last_name] => Asmiralda
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [21] => Array
+        (
+            [id] => 141823691
+            [bdate] => 15.4.1993
+            [photo_max_orig] => https://sun1-14.userapi.com/s/v1/ig2/BDiiEThwcNqI6U6Uj0bRXcksj-M9rlWVNqhMdUDlvSZAp95Je01YBZ43RonfAtrl-2gHj8Cd-FtT8FfVdv56cH4w.jpg?quality=95&crop=3,396,639,639&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Самира
+            [last_name] => Владис
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [22] => Array
+        (
+            [id] => 444728143
+            [photo_max_orig] => https://sun1-86.userapi.com/s/v1/ig2/vB29gjEP0AD_dABRJY25oJmGM4_cymHv3XGMjrx60Bc9XY2wU-f2z4o6CS2B22SnvEtcDk92LouuN0nYUrHAhkim.jpg?quality=95&crop=230,116,1586,1586&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Анастасия
+            [last_name] => Мироненко
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [23] => Array
+        (
+            [id] => 567214063
+            [photo_max_orig] => https://sun1-21.userapi.com/s/v1/ig2/34KuE-WsNiQe8lbNKPjE1OlD1-U-wfBXMXoef_JxGIHCbe4H2_8iZfQnvb5-vpvnxkI2mXUgFWp01IraVSpmR7-a.jpg?quality=95&crop=84,59,379,379&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Nata
+            [last_name] => Piercing
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [24] => Array
+        (
+            [id] => 131840521
+            [bdate] => 11.5
+            [photo_max_orig] => https://sun1-91.userapi.com/s/v1/ig2/R4sGWpiAvazgbjpkrgVddXeuEgWXtNGGb0vPDER6lC-c1C57Wza-Hs80AFX2zc7VJauAVWn2D_azvMfC11OLWWdE.jpg?quality=95&crop=242,0,539,539&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Эльвира
+            [last_name] => Италмасова
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [25] => Array
+        (
+            [id] => 23350662
+            [bdate] => 16.7.1992
+            [photo_max_orig] => https://sun1-84.userapi.com/s/v1/ig2/w9itjk-BpxWatYGHLAn2AvLHU0wGapnL4PdcPkm886w3nYtjUMAc4Dh4NGimklZJH1W32Xx1UuEYc_RmJ-YLTUlL.jpg?quality=96&crop=0,3,385,385&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Валерия
+            [last_name] => Вахрушева
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [26] => Array
+        (
+            [id] => 161548521
+            [bdate] => 8.6
+            [photo_max_orig] => https://sun1-25.userapi.com/s/v1/ig2/qQOZvdb6W702JMmgc-PugiiCoxWYUl6LpEyuRkqSlqw4PpL5koGb03sVKYf0IpFdwtyp30nbfs6BldzRKDKb9E7l.jpg?quality=96&crop=1052,42,1453,1453&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Анна
+            [last_name] => Устинова
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [27] => Array
+        (
+            [id] => 145313459
+            [photo_max_orig] => https://sun1-94.userapi.com/s/v1/ig2/d5x3TF6gCQec4lMr5PNN25uFXwI1Yf5kKWi3-FKU9AOeNlM5fbVzwseZyUsenjS-dfwdc4qyZJwAG9oCyIUpfG3G.jpg?quality=96&crop=252,385,1079,1079&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Александра
+            [last_name] => Дерюгина
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [28] => Array
+        (
+            [id] => 700328027
+            [photo_max_orig] => https://sun1-14.userapi.com/s/v1/ig2/U0bZJseHOhGo2YHRbTrd9AN7KdneJzbV9ImGMb3lz3CnApWuQU8wgMzVdjeKZ9vZKwowzXQ62n5_zXs_T2BL75AU.jpg?quality=95&crop=2,102,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Ylia
+            [last_name] => Ermilova
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [29] => Array
+        (
+            [id] => 575897201
+            [photo_max_orig] => https://sun1-25.userapi.com/s/v1/ig2/o6JnIwcJAUlExkYoLDwtaLWLs32weIPpSTzG5nyDU4bmfL-AX4Cgf88oV5slh3NfqOsR0vPlTnY0t4ZT8Hfb-Hjw.jpg?quality=95&crop=0,0,1920,1920&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Дорогая
+            [last_name] => Мари
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [30] => Array
+        (
+            [id] => 118718354
+            [bdate] => 10.3
+            [photo_max_orig] => https://sun1-23.userapi.com/s/v1/ig2/krVcwNvm-rit6dfGtR286peQ7zaRKllcQfl7l79SvD77VUX_UVY46wHTk5vpASQBFY8Er1NFnrwIS9T2dboYrbJm.jpg?quality=95&crop=252,473,479,479&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Александр
+            [last_name] => Грибанов
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [31] => Array
+        (
+            [id] => 156520684
+            [bdate] => 4.8
+            [photo_max_orig] => https://sun1-14.userapi.com/s/v1/ig1/TJqHyAkisRtZ97aotcEUvBJoP3gD_E16lybrPQMU-ARqxVSJeKr37IhZc4g4BXPywjZ3CopX.jpg?quality=96&crop=83,0,702,702&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Мария
+            [last_name] => Сластина
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [32] => Array
+        (
+            [id] => 16948958
+            [bdate] => 15.8
+            [photo_max_orig] => https://sun1-26.userapi.com/s/v1/ig2/xgMeHEw7Re_iUyVkRtL5SumpgYShePvdnaaU9LcdBbld9m7u66Bp9tKq5q9hMo6sA0MQLCPt-w9IMckcCTj18jUZ.jpg?quality=95&crop=2,2,861,861&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Настя
+            [last_name] => Давыдова
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [33] => Array
+        (
+            [id] => 10885844
+            [bdate] => 19.8.1982
+            [photo_max_orig] => https://sun1-29.userapi.com/s/v1/ig1/HeUISHwL_05eGdoj9NhGq0h-vjcN6CLKBaUy0fkXOnF4KvtdPvirRfynE9uDRTY6WgcDl7ES.jpg?quality=96&crop=1,1,957,957&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Илья
+            [last_name] => Сивухов
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [34] => Array
+        (
+            [id] => 468442201
+            [photo_max_orig] => https://sun1-95.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=240x240
+            [has_photo] => 0
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Mmmlllll
+            [last_name] => Llll
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [35] => Array
+        (
+            [id] => 28083984
+            [bdate] => 5.6
+            [photo_max_orig] => https://sun1-20.userapi.com/s/v1/ig2/zwDJLSTFpiwyW_LIENe5LqN-UV1OrzpW9qPdgqL6X072jPZ9uNlPg1gMrMc6oN0tRynNisW2WjtTENRBl5yje4-t.jpg?quality=95&crop=195,502,824,824&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Ilona
+            [last_name] => Selezneva
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [36] => Array
+        (
+            [id] => 47058953
+            [bdate] => 3.8
+            [photo_max_orig] => https://sun1-54.userapi.com/s/v1/ig2/BfN2Fpm_HWyA-XmFwlFhq2ECcbwQgM46JYlTPm9oxgbJdy-P4lt6xiSy4t-1s97E47-QsbPpVuheWAelthQ55io7.jpg?quality=95&crop=1,146,1919,1919&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Виктория
+            [last_name] => Косенкова
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [37] => Array
+        (
+            [id] => 712393074
+            [photo_max_orig] => https://sun1-95.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=240x240
+            [has_photo] => 0
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Наталья
+            [last_name] => Наталья
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [38] => Array
+        (
+            [id] => 711912239
+            [bdate] => 28.11.1999
+            [photo_max_orig] => https://sun1-94.userapi.com/s/v1/ig2/7eTq8aurz0gzODdj-1dsArVlWJ_CcvKFAjF2Tbh4Y2iXHeeHijLuXMquc915jBZP50lSsxnls3h1omq4bHvjABlP.jpg?quality=95&crop=2,40,958,958&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Ара
+            [last_name] => Карама
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [39] => Array
+        (
+            [id] => 90498196
+            [bdate] => 24.3.1975
+            [photo_max_orig] => https://sun1-84.userapi.com/s/v1/ig2/yE_2QWQqr9Am_rAivAko213izSYmMLTgxF2k7F_bgDIFojwadex5N91LX9zhQSCTZpo5SNk9YBWqInELLgvjaVon.jpg?quality=95&crop=0,421,1645,1645&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Сергей
+            [last_name] => Сидоров
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [40] => Array
+        (
+            [id] => 1023331060
+            [photo_max_orig] => https://sun1-97.userapi.com/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=240x240
+            [has_photo] => 0
+            [can_write_private_message] => 0
+            [sex] => 1
+            [deactivated] => banned
+            [first_name] => Яна
+            [last_name] => Билык
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [41] => Array
+        (
+            [id] => 872105982
+            [bdate] => 8.12.2000
+            [photo_max_orig] => https://sun1-21.userapi.com/s/v1/ig2/1FrLh1I1DgHfkwmpspxFzrHt4A51EaPjuWgxA44r6wGlfgwdDk33Vzv-f0wxtpwZXcW_vv1bYqTRWsrlilpbCUva.jpg?quality=95&crop=88,19,1536,1536&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Vlad
+            [last_name] => Rusakov
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [42] => Array
+        (
+            [id] => 143445966
+            [photo_max_orig] => https://sun1-86.userapi.com/s/v1/ig2/qtsxIOlHudCWIim9fL5fuj4qkiZfxcs8FtwfoS4ubXZbQiEHyO5j8CGIf_oyfNoaTqCPymm-B76ccwYnQpuhQQjG.jpg?quality=95&crop=5,309,1075,1075&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Ольга
+            [last_name] => Бекетова
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [43] => Array
+        (
+            [id] => 825159194
+            [photo_max_orig] => https://sun1-95.userapi.com/impg/DW4IDqvukChyc-WPXmzIot46En40R00idiUAXw/l5w5aIHioYc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=10ad7d7953daabb7b0e707fdfb7ebefd&u=I6EtahnrCRLlyd0MhT2raQt6ydhuyxX4s72EHGuUSoM&cs=240x240
+            [has_photo] => 0
+            [can_write_private_message] => 0
+            [sex] => 1
+            [first_name] => Nefer
+            [last_name] => Tari
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [44] => Array
+        (
+            [id] => 209529700
+            [photo_max_orig] => https://sun1-83.userapi.com/s/v1/ig2/i3ssh2VN9USo-Nj0raxTkXEXaCDI9dkuyA1KRTrnn0OSSH6Er0PL3VnLNZtPilRSX-dMJmklxdg-XKRC0uB03QPW.jpg?quality=95&crop=94,226,762,762&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Para
+            [last_name] => Noir
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [45] => Array
+        (
+            [id] => 399484161
+            [bdate] => 12.12.1991
+            [photo_max_orig] => https://sun1-15.userapi.com/s/v1/ig1/t_tEZ3pOFYEpeobspp6bXk06WNEWtZXSkzX2EJ-NbKkUAiiXVD0lnsk56Tbf0IOty9ZKhuxs.jpg?quality=96&crop=321,1,1916,1916&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Сергей
+            [last_name] => Сергеев
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [46] => Array
+        (
+            [id] => 380618546
+            [bdate] => 22.8
+            [photo_max_orig] => https://sun1-97.userapi.com/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=240x240
+            [has_photo] => 0
+            [can_write_private_message] => 0
+            [sex] => 1
+            [deactivated] => deleted
+            [first_name] => Шура
+            [last_name] => Русс
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [47] => Array
+        (
+            [id] => 197500568
+            [bdate] => 26.11
+            [photo_max_orig] => https://sun1-20.userapi.com/s/v1/ig2/kTeQBTLKN8QYc80lrESGRpAC98Sr8adfpzmPT3Q9_afaUHKHs9C9KbQThcOtwtUdZvLk0t0SoX3Wzy4f3IjCr297.jpg?quality=95&crop=229,0,635,635&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 2
+            [first_name] => Star
+            [last_name] => Time
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [48] => Array
+        (
+            [id] => 13811741
+            [photo_max_orig] => https://sun1-93.userapi.com/s/v1/ig2/yP-vy4fx91r320N0bAEAMKY-pOGsqhRiu0wGFWfZogLLH0LGwqTZY6D49clVe7tkedTvDbJGctoR6jI24qwBJiel.jpg?quality=95&crop=116,382,473,473&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Татьяна
+            [last_name] => Раткевич
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [49] => Array
+        (
+            [id] => 200225056
+            [photo_max_orig] => https://sun1-47.userapi.com/s/v1/ig2/yCgkCPk7keEjfGS2nPxRCNXJzug7kfbiOw3wfUgGze3Mu24BaJp43TmkfgLeJ66M18oWMnMzGfX1q9hzOpwFVBS0.jpg?quality=95&crop=35,217,290,290&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Кристина
+            [last_name] => Марущак
+            [can_access_closed] => 
+            [is_closed] => 1
+        )
+
+    [50] => Array
+        (
+            [id] => 152009077
+            [bdate] => 22.12
+            [photo_max_orig] => https://sun1-84.userapi.com/s/v1/ig2/8D-PaenAGGtcPpB3BZMCiZILYHUa1N9u0syb6_czgYVQHPTRVbo6OdUFsNNASqCUr3g-TY-1sJBIRLe5Vc54itjw.jpg?quality=95&crop=283,60,1103,1103&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Ольга
+            [last_name] => Макарская
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+    [51] => Array
+        (
+            [id] => 9159382
+            [bdate] => 12.8
+            [photo_max_orig] => https://sun1-13.userapi.com/s/v1/ig2/jiEhakjf6S4Y2qE76Y4HLUCG3OLOgVpDwpq0EqefSwRuuVJmiFwf_0t30l4iZ_4R2i8yXM7uvlBaswD9iTyuq62J.jpg?quality=95&crop=11,480,1696,1696&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240
+            [has_photo] => 1
+            [can_write_private_message] => 1
+            [sex] => 1
+            [first_name] => Светлана
+            [last_name] => Кондратьева
+            [can_access_closed] => 1
+            [is_closed] => 
+        )
+
+)

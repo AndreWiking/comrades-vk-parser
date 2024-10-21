@@ -1,0 +1,6 @@
+.DS_Store
+/.idea
+/out/
+package.xml
+notes.txt
+/source/config.env
